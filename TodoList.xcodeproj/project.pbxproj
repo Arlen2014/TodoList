@@ -59,10 +59,10 @@
 		0A00E778293EE599003AD7B9 /* TodoList */ = {
 			isa = PBXGroup;
 			children = (
+				0A00E779293EE599003AD7B9 /* TodoListApp.swift */,
 				0A966E0E2946A06000EA0262 /* ViewModels */,
 				0A966E0B29469C1700EA0262 /* Models */,
 				0A00E787293EE711003AD7B9 /* Views */,
-				0A00E779293EE599003AD7B9 /* TodoListApp.swift */,
 				0A00E77D293EE59A003AD7B9 /* Assets.xcassets */,
 				0A00E77F293EE59A003AD7B9 /* Preview Content */,
 			);
